@@ -1,0 +1,27 @@
+# Daten und Zwischenergebnisse (groß, reproduzierbar)
+data/
+work/
+gvcf/
+joint/
+filtered/
+qc/
+.snakemake/
+results/snps.vcf.gz*
+results/king.log
+results/king.kin0.zst
+
+# persönliche Pfade
+config.yaml
+
+# Sicherungen und LaTeX-Hilfsdateien
+Snakefile.bak*
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+.DS_Store
+*.toc

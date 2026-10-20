@@ -1,0 +1,16 @@
+reference: /PFAD/ANPASSEN
+aligner: bwa
+align_mem_gb: 8
+threads: 8
+chroms: ["20", "21", "22"]
+min_dp: 15
+min_gq: 30
+samples:
+  NA12877:
+    bam: /PFAD/ANPASSEN
+  NA12878:
+    bam: /PFAD/ANPASSEN
+  NA12891:
+    accession: ERR194160
+  NA12892:
+    accession: ERR194161
