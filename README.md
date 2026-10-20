@@ -59,3 +59,7 @@ python scripts/plot_results.py
 ## Quellen
 
 Eberle et al. 2017 (Platinum Genomes), Manichaikul et al. 2010 (KING), Chang et al. 2015 (PLINK 2), Mölder et al. 2021 (Snakemake), McKenna et al. 2010 (GATK), Li 2013 (BWA-MEM). Vollständige Angaben in `literatur.bib`.
+
+## Entstehung
+
+Die Pipeline und die Dokumente habe ich mit Unterstützung von Claude (Anthropic) entwickelt. Ich habe die Ergebnisse geprüft und die Auswertung nachvollzogen.
